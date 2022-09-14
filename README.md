@@ -1,2 +1,2 @@
 # Random-Quote-Machine
-http://www.randomquotemachine.com/
+https://roses-are-dead666.github.io/Random-Quote-Machine/
